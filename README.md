@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Career-Pro-AI
-=======
 # CareerBoost AI
 
 AI-powered career platform that helps job seekers analyze resumes, prepare for interviews, and build career roadmaps.
@@ -278,4 +275,3 @@ These features are built but not wired up — they require paid services:
 - **Email sending** — forgot password generates a token but doesn't send email (use Resend/SendGrid when ready)
 
 None of these block the app from running. Users can register, use all 3 AI tools, and browse the full UI.
->>>>>>> c6d7145 (Production release candidate)
